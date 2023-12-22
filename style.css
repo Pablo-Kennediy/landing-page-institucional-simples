@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: larger;
+}
+
+div {
+    margin: 15px;
+}
+
+section {
+    margin: auto;
+}
+
+#meio section {
+    text-align: end;
+    max-width: 80%;
+}
+footer img{
+    margin: auto;
+}
+footer {
+    margin: auto;
+    margin-top: 20vh;
+    text-align: center;
+}
